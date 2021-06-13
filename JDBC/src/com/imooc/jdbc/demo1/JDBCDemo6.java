@@ -1,4 +1,4 @@
-package com.imooc.jdbc.demo2;
+package com.imooc.jdbc.demo1;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
