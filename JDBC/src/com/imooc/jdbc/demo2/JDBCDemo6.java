@@ -13,7 +13,7 @@ import com.imooc.jdbc.utils.JDBCUtils;
  * @author jt
  *
  */
-public class JDBCDemo5 {
+public class JDBCDemo6 {
 	@Test
 	/**
 	 * 查询一条记录
