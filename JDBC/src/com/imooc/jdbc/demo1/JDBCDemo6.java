@@ -122,7 +122,7 @@ public class JDBCDemo6 {
 			// 执行SQL:
 			int num = pstmt.executeUpdate();
 			if(num > 0){
-				System.out.println("修改成功！version1");
+				System.out.println("修改成功！version2");
 			}
 		}catch(Exception e){
 			e.printStackTrace();
