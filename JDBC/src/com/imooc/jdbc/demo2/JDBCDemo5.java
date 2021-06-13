@@ -91,7 +91,7 @@ public class JDBCDemo5 {
 			// 执行SQL:
 			int num = pstmt.executeUpdate();
 			if(num > 0){
-				System.out.println("删除成功！");
+				System.out.println("删除成功！测试");
 			}
 		}catch(Exception e){
 			e.printStackTrace();
